@@ -1,3 +1,23 @@
+# Clash-Legacy
+
+[English](README.md) · 简体中文
+
+[![当前维护仓库](https://img.shields.io/badge/ProjectClash-%E5%BD%93%E5%89%8D%E7%BB%B4%E6%8A%A4%E4%BB%93%E5%BA%93-2563EB?logo=github)](https://github.com/ProjectClash/Clash)
+[![官方网站](https://img.shields.io/badge/Website-%E5%AE%98%E7%BD%91-2563EB)](https://clash.md/)
+[![客户端下载](https://img.shields.io/badge/App_Store-%E4%B8%8B%E8%BD%BD-black?logo=apple&logoColor=white)](https://apps.apple.com/app/id6794257189)
+
+> [!IMPORTANT]
+> **后续开发已迁至 [Clash](https://github.com/ProjectClash/Clash)。**
+>
+> 本仓库原位于 `TokenPLS/Hako`，于 2026 年 10 月 10 日转入 ProjectClash，作为历史档案保留，不再更新代码或发布新版本。
+>
+> 最新源码、编译说明、版本发布及[新问题反馈](https://github.com/ProjectClash/Clash/issues)请前往当前维护仓库。仍待处理的反馈已连同讨论转移，原 Issue 链接会跳转至新位置。
+
+历史提交、贡献者署名、分支、标签、发行版本和下载附件均予以保留。Star 与 Fork 关系仍属于本历史仓库。下方保留的旧名称和编译说明对应历史版本，当前使用方式请以新仓库为准。
+
+<details>
+<summary>历史 README</summary>
+
 <p align="center">
   <img src="assets/hako-logo-256.png" width="128" height="128" alt="Hako">
 </p>
@@ -94,3 +114,5 @@ Apple 绑定在 `bind/hako` 下有独立模块和测试。SDK 构建成功不代
 Hako 基于 [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) 及其贡献者的工作。Hako 是独立项目，与 MetaCubeX 没有隶属或背书关系。
 
 项目采用 [GPL-3.0](LICENSE) 许可证。署名与依赖许可证见 [NOTICE](NOTICE) 和 [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)。
+
+</details>

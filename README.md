@@ -1,3 +1,23 @@
+# Clash-Legacy
+
+English · [简体中文](README.zh-CN.md)
+
+[![Active repository](https://img.shields.io/badge/ProjectClash-Active_repository-2563EB?logo=github)](https://github.com/ProjectClash/Clash)
+[![Website](https://img.shields.io/badge/Website-Official-2563EB)](https://clash.md/)
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/app/id6794257189)
+
+> [!IMPORTANT]
+> **Development has moved to [Clash](https://github.com/ProjectClash/Clash).**
+>
+> This is the historical repository formerly located at `TokenPLS/Hako`, transferred to ProjectClash on October 10, 2026. It is retained as an archive and will receive no further code updates or releases.
+>
+> Use the active repository for current source, build instructions, releases and [new issues](https://github.com/ProjectClash/Clash/issues). Outstanding reports have been transferred with their discussions; their original issue links redirect to the new locations.
+
+Historical commits, contributor attribution, branches, tags, releases and download assets are retained. Stars and fork relationships remain attached to this historical repository. Earlier names and build instructions below describe the historical version, not the current project.
+
+<details>
+<summary>Historical README</summary>
+
 <p align="center">
   <img src="assets/hako-logo-256.png" width="128" height="128" alt="Hako">
 </p>
@@ -94,3 +114,5 @@ For security reports, follow [SECURITY.md](SECURITY.md).
 Hako is based on [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) and the work of its contributors. Hako is an independent project and is not affiliated with or endorsed by MetaCubeX.
 
 The project is licensed under [GPL-3.0](LICENSE). See [NOTICE](NOTICE) and [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for attribution and dependency licenses.
+
+</details>
